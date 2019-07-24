@@ -11,3 +11,16 @@
     border-radius: 5%;
     border-color: #162e58;
 }
+
+ .soccerPlayerArray{
+    color:#ffffff;
+    background-color: #162e58;
+    border-radius: 5%;
+    border-color: #162e58;
+  }
+
+  #gifs{
+    background-color: #fdfdfd;
+    padding: 5%;
+    border-color: #162e58;
+  }
